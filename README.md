@@ -12,7 +12,6 @@ Welcome to my personal portfolio repository! This project showcases my skills, p
 - [Technologies Used](#technologies-used)
 - [Setup and Installation](#setup-and-installation)
 - [Usage](#usage)
-- [Projects](#projects)
 - [Contact](#contact)
 - [License](#license)
 
