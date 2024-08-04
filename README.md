@@ -58,3 +58,6 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 ---
 
 This README file provides a comprehensive overview of your portfolio, highlighting key features, technologies used, and how to set it up and use it. You can customize and expand it as needed to better reflect your personal touch and additional details about your projects and experiences.
+
+## UI of My Portfolio
+![image](https://github.com/user-attachments/assets/ccdef4c9-5df1-46f4-8e3b-9fc10a638b0b)
